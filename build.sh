@@ -1,0 +1,1 @@
+docker build -t pm2/verify .
